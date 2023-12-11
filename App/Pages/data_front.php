@@ -1,0 +1,3 @@
+<?php
+
+// Affichage du tableau
